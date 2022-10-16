@@ -5,7 +5,7 @@ body{
     
 }
 .logo{
-     width: 268px;
+    width: 268px;
     height: 33px;
     padding: 10px;
 
@@ -20,6 +20,7 @@ h1,h2,h3,h4 {
     font-family: Work Sans, Arial, sans-serif;
     font-weight: 300;
     letter-spacing: -.3px;
+    
 }
 header {
     position: sticky;
@@ -51,6 +52,7 @@ a:hover {
 
 .first{
     text-align: center;
+    
     
 }
 .snd{
@@ -112,6 +114,7 @@ a:hover {
     justify-content: space-between;
     align-items: baseline;
     margin-right:100px;
+    
 }
 .dlogo{
     height: 20px;
@@ -180,6 +183,7 @@ h2{
 }
 .fifth{
    background-color: #e5faf8;
+   
    display: flex;
    justify-content: space-around;
       
@@ -233,7 +237,6 @@ h2{
     width:460px;
     text-align: center;
     margin:100px 0 100Px 430px;
-
    
 }
 .seven{
